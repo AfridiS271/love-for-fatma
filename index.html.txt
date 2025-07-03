@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>For You, Fatma 💖</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>For You, Fatma 💖</h1>
+    <p>
+      From the moment I met you, my heart found its rhythm. This is a small page, but it carries a big message — I love you, Fatma. 🌹
+    </p>
+  </header>
+
+  <section class="gallery">
+    <img src="fatma.jpg"Memory 1" />
+    <img src="afridi.jpg" alt="Memory 2" />
+    <img src="fatma1.jpg" alt="Memory 3" />
+  </section>
+
+  <footer>
+    Forever yours, with all my heart 💘
+  </footer>
+</body>
+</html>
